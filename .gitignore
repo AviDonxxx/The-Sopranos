@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Build
+dist/
+/dist-ssr
+*.local
+public/content/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db
